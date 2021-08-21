@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @premmidathala
 - 👀 I’m interested in ...python job
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
